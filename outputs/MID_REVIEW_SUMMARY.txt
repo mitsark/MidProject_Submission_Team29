@@ -1,0 +1,6 @@
+MID REVIEW SUMMARY
+===================
+Test Accuracy: 0.8130
+Weighted F1: 0.8131
+Macro F1: 0.7860
+Checkpoint: best_trabsa_model.pth
